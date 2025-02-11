@@ -1,0 +1,38 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.back{
+  background-color: #4B0082;
+  color: white;
+}
+
+
+.navbar .navbar-brand {
+  color: white !important;
+}
+
+.navbar .navbar-toggler-icon {
+  filter: invert(100%);
+}
+.job-card{
+  background-color: #4a4acd;
+}
+.mid-col{
+  background-color:#E6E6FA ;
+  border-radius: 1rem;
+}
+.back-foot{
+  background-color: black;
+  
+}
+.footer-text{
+  color: white;
+}
+.no-jobs{
+  font-size: 40px;
+  
+}
+

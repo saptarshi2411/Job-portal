@@ -1,0 +1,29 @@
+/* Custom Styles for the Jobcard */
+.card {
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.btn-primary {
+    transition: background-color 0.3s ease-in-out;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+
+.container {
+    max-width: 800px;
+}
+
+.form-group label {
+    font-weight: bold;
+}
+.card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-color: #0bfbd3; /* Light red background on hover */
+}
